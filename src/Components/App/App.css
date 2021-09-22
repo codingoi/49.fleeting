@@ -1,0 +1,32 @@
+.App {
+  text-align: left;
+}
+
+.App header {
+  padding-top: 5rem;
+  padding-left: 5rem;
+}
+
+.App main {
+  padding-top: 0rem;
+  padding-left: 10rem;
+}
+
+.App h1 {
+  font-size: 5rem;
+  font-weight: 400;
+  padding: 0 3rem 0 0 ;
+  color: #d28887;
+}
+
+.App header h2 {
+  color: #fff;
+  font-weight: 400;
+  font-size: 3rem;
+}
+
+.App ul {
+  width: 70%;
+  margin-top: 3rem;
+}
+
