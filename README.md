@@ -2,7 +2,7 @@
 
 ## Premise
 
-What if you could post something and know it wouldn’t live forever? In this project, we’ll build a React app for our passing thoughts. Once you add a short thought, it’ll disappear after just 60 seconds.
+What if you could post something and know it wouldn’t live forever? In this project, you’ll build a React app for our passing thoughts. Once you add a short thought, it’ll disappear after just 60 seconds.
 
 ## Version 1
 
