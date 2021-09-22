@@ -15,14 +15,14 @@ export default function App() {
     },
     {
       id: generateId(),
-      text: "They'll be removed after 15 seconds.",
+      text: "They'll be removed after 60 seconds.",
       expiresAt: getNewExpirationTime(),
     },
   ]);
 
   
 const addThought = (thought) => {
-  setThoughts((prev) => [thought, ...prev])
+  setThoughts((prev) => [...prev, thought])
 }
 
 const removeThought = (thoughtId) => {
